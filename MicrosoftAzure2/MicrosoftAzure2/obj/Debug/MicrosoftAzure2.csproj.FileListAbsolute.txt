@@ -1,0 +1,5 @@
+C:\Users\Sumanth_Komaravelli\Desktop\Sohan\MicrosoftAzure2\MicrosoftAzure2\bin\Debug\MicrosoftAzure2.dll
+C:\Users\Sumanth_Komaravelli\Desktop\Sohan\MicrosoftAzure2\MicrosoftAzure2\bin\Debug\MicrosoftAzure2.pdb
+C:\Users\Sumanth_Komaravelli\Desktop\Sohan\MicrosoftAzure2\MicrosoftAzure2\obj\Debug\MicrosoftAzure2.csprojResolveAssemblyReference.cache
+C:\Users\Sumanth_Komaravelli\Desktop\Sohan\MicrosoftAzure2\MicrosoftAzure2\obj\Debug\MicrosoftAzure2.dll
+C:\Users\Sumanth_Komaravelli\Desktop\Sohan\MicrosoftAzure2\MicrosoftAzure2\obj\Debug\MicrosoftAzure2.pdb
